@@ -8,22 +8,22 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "27473563",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "bc2ea0765ac96bb474891b0243f44390",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "7085776844:AAE0YsI_5Jh8-H0yoDiyMd0HMXJwLKMfYRk",
       "required": true
     },
     "MONGO_DB": {
       "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-      "value": "your_mongodb_url_here",
+      "value": "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "OWNER_ID": {
@@ -65,18 +65,18 @@
     },
     
     "SUDO_USERS": {
-      "description": "Other Admins' IDs (optional)",
+      "description": "6363345131",
       "value": "",
       "required": false
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "channel_id_here",
+      "value": "-1002983693521",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
-      "value": "log_group_id_here",
+      "value": "-1002879847444",
       "required": true
     }
   },
