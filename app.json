@@ -28,7 +28,7 @@
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "owner_user_id_here",
+      "value": "6363345131,6478217960",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
@@ -65,8 +65,8 @@
     },
     
     "SUDO_USERS": {
-      "description": "6363345131",
-      "value": "",
+      "description": "",
+      "value": "6363345131,6478217960",
       "required": false
     },
     "CHANNEL_ID": {
